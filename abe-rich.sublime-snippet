@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+{{abe type='rich' key='${1:key}' desc='${2:description}' toolbar='${3:bold,italic,underline,strikethrough,forecolor,highlight,align,subscript,superscript,indent,insertList,removeFormat,insertLink,code,list,media,format,font,fontsize,smiley}' tab='${4:default}'}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>abe-rich</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+
+

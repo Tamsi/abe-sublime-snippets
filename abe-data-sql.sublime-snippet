@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{{abe type='data' key='${1:key}' desc='${2:description}' source='select ${3:*} from ../ where `abe_meta.template`=`${4:tpl_name}`' display="${5:title}" visible='${6:true}' editable='${7:true}' tab='${8:default}'}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>abe-data-sql</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

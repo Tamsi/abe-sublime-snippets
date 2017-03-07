@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{{abe type='file' filetype='${1:file_type}' key='${2:key}' desc='${3:description}' tab='${4:default}'}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>abe-file</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
